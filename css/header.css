@@ -10,12 +10,13 @@ header {
 
 header > section {
   width: 1rem;
-  font-size: .1rem;
+  font-size: .075rem;
   height: 100%;
   text-align: center;
 }
 
 header > nav {
+  font-size: .075rem;
   flex: auto;
   display: flex;
   justify-content: flex-end;
